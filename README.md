@@ -20,16 +20,11 @@ Um espaço centralizado para documentar, organizar e acompanhar suas ideias para
 | Campo | Descrição |
 |-------|-----------|
 | **Título** | Nome claro e descritivo da ideia |
-| **Status** | Rascunho, Em Análise, Planejada, Em Desenvolvimento ou Concluída |
-| **Prioridade** | Baixa, Média, Alta ou Crítica |
+| **Status** | Rascunho, Em Análise, Em Desenvolvimento, Bloqueado ou Concluída |
 | **Categorias** | Tags para categorizar (ex: web, mobile, IA) |
 | **Descrição** | Explicação detalhada da ideia |
 | **Objetivo** | O que você espera alcançar |
-| **Benefícios** | Vantagens e resultados esperados |
 | **Implementação** | Como seria realizado na prática |
-| **Desafios** | Obstáculos potenciais |
-| **Recursos** | Tecnologias, pessoas e tempo necessários |
-| **Próximos Passos** | Checklist de ações necessárias |
 
 ---
 
@@ -60,6 +55,8 @@ Use estas tags para organizar suas ideias:
 - **data** - Data science/análise
 - **devops** - DevOps/infraestrutura
 - **automacao** - Automação
+- **iot** - Internet das Coisas
+- **pessoal** - Projetos pessoais
 - **startup** - Ideias de negócio
 - **outro** - Outras categorias
 
@@ -71,9 +68,9 @@ Use estas tags para organizar suas ideias:
 |--------|------------|
 | 🟦 Rascunho | Ideia inicial, ainda em desenvolvimento |
 | 🟨 Em Análise | Analisando viabilidade e recursos |
-| 🟧 Planejada | Aprovada e aguardando início |
-| 🟩 Em Desenvolvimento | Sendo desenvolvida atualmente |
-| ⬜ Concluída | Projeto finalizado |
+| 🟧 Em Desenvolvimento | Sendo desenvolvida atualmente |
+| 🔴 Bloqueado | Impedida ou suspensa |
+| ✅ Concluída | Projeto finalizado |
 
 ---
 
