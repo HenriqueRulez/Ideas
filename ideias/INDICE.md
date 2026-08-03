@@ -11,7 +11,7 @@ Rastreamento centralizado de todas as ideias do repositório.
 | Coin Collection Catalog App | 🟨 Em Análise | 2026-07-15 | [Ver](003_Coin_Collection_Catalog.md) |
 | Marketplace Auto Buyer | 🟨 Em Análise | 2026-07-15 | [Ver](004_Marketplace_Auto_Buyer.md) |
 | Language Learning Conversation Tool | 🟨 Em Análise | 2026-07-15 | [Ver](005_Language_Learning_Conversation_Tool.md) |
-| Memory Game Solver | 🟨 Em Análise | 2026-07-15 | [Ver](006_Memory_Game_Solver.md) |
+| Memory Match Solver (IdleOn) | 🟨 Em Análise | 2026-07-15 | [Ver](006_Memory_Game_Solver.md) |
 | AI Nutritionist Assistant | ✅ Concluída | 2026-08-03 | [Ver](007_AI_Nutritionist_Assistant.md) | |
 
 ---
